@@ -1,6 +1,6 @@
-[YouTube](https://www.youtube.com/@BuildtoKorea) • [LinkedIn](https://www.linkedin.com/in/samet-bayram-dev)
-
 # Samet Bayram 👋
+
+[YouTube](https://www.youtube.com/@BuildtoKorea) • [LinkedIn](https://www.linkedin.com/in/samet-bayram-dev)
 
 **Build to Korea** — rebuilding my dev life from scratch and documenting the journey.
 
