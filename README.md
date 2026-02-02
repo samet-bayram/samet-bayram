@@ -20,7 +20,7 @@
 ## Tech stack
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js  
 - **Backend:** Next.js API routes, Node.js (basic)  
-- **Tools:** Git, GitHub, VS Code
+- **Tools:** Git (learning), GitHub, VS Code
 
 ---
 
