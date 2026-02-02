@@ -1,3 +1,5 @@
+[YouTube](https://www.youtube.com/@BuildtoKorea) • [LinkedIn](https://www.linkedin.com/in/samet-bayram-dev)
+
 # Samet Bayram 👋
 
 **Build to Korea** — rebuilding my dev life from scratch and documenting the journey.
@@ -11,14 +13,13 @@
 ## What I'm working on
 - 🛠️ **VEFA Furniture Website** (Next.js / JavaScript)  
   Building a sales-focused catalog website with admin basics (products & categories).
-- 🎥 **Build to Korea** — daily progress + weekly recaps  
-  YouTube: https://www.youtube.com/@BuildtoKorea
+- 🎥 **Build to Korea** — daily progress + weekly recaps
 
 ---
 
 ## Tech stack
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js  
-- **Backend:** Next.js API routes, Node.js (basics)  
+- **Backend:** Next.js API routes, Node.js (basic)  
 - **Tools:** Git, GitHub, VS Code
 
 ---
@@ -32,7 +33,9 @@ I run short challenges and follow through publicly:
 ---
 
 ## Connect
-- 📺 YouTube: https://www.youtube.com/@BuildtoKorea
+- YouTube: https://www.youtube.com/@BuildtoKorea
+- GitHub: https://github.com/samet-bayram
+- LinkedIn: https://www.linkedin.com/in/samet-bayram-dev
 
 ---
 
